@@ -1,0 +1,12 @@
+c:\Users\ecf2744a\documents\visual studio 2015\Projects\WService\Datos\bin\Debug\Datos.dll.config
+c:\Users\ecf2744a\documents\visual studio 2015\Projects\WService\Datos\bin\Debug\Datos.dll
+c:\Users\ecf2744a\documents\visual studio 2015\Projects\WService\Datos\bin\Debug\Datos.pdb
+c:\Users\ecf2744a\documents\visual studio 2015\Projects\WService\Datos\bin\Debug\Entidades.dll
+c:\Users\ecf2744a\documents\visual studio 2015\Projects\WService\Datos\bin\Debug\EntityFramework.dll
+c:\Users\ecf2744a\documents\visual studio 2015\Projects\WService\Datos\bin\Debug\EntityFramework.SqlServer.dll
+c:\Users\ecf2744a\documents\visual studio 2015\Projects\WService\Datos\bin\Debug\Entidades.pdb
+c:\Users\ecf2744a\documents\visual studio 2015\Projects\WService\Datos\bin\Debug\EntityFramework.xml
+c:\Users\ecf2744a\documents\visual studio 2015\Projects\WService\Datos\bin\Debug\EntityFramework.SqlServer.xml
+c:\Users\ecf2744a\documents\visual studio 2015\Projects\WService\Datos\obj\Debug\Datos.csprojResolveAssemblyReference.cache
+c:\Users\ecf2744a\documents\visual studio 2015\Projects\WService\Datos\obj\Debug\Datos.dll
+c:\Users\ecf2744a\documents\visual studio 2015\Projects\WService\Datos\obj\Debug\Datos.pdb

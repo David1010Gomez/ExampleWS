@@ -1,0 +1,14 @@
+c:\Users\ecf2744a\documents\visual studio 2015\Projects\WService\Negocios\bin\Debug\Negocios.dll.config
+c:\Users\ecf2744a\documents\visual studio 2015\Projects\WService\Negocios\bin\Debug\Negocios.dll
+c:\Users\ecf2744a\documents\visual studio 2015\Projects\WService\Negocios\bin\Debug\Negocios.pdb
+c:\Users\ecf2744a\documents\visual studio 2015\Projects\WService\Negocios\bin\Debug\Datos.dll
+c:\Users\ecf2744a\documents\visual studio 2015\Projects\WService\Negocios\bin\Debug\Entidades.dll
+c:\Users\ecf2744a\documents\visual studio 2015\Projects\WService\Negocios\bin\Debug\EntityFramework.dll
+c:\Users\ecf2744a\documents\visual studio 2015\Projects\WService\Negocios\bin\Debug\EntityFramework.SqlServer.dll
+c:\Users\ecf2744a\documents\visual studio 2015\Projects\WService\Negocios\bin\Debug\Datos.pdb
+c:\Users\ecf2744a\documents\visual studio 2015\Projects\WService\Negocios\bin\Debug\Entidades.pdb
+c:\Users\ecf2744a\documents\visual studio 2015\Projects\WService\Negocios\bin\Debug\EntityFramework.xml
+c:\Users\ecf2744a\documents\visual studio 2015\Projects\WService\Negocios\bin\Debug\EntityFramework.SqlServer.xml
+c:\Users\ecf2744a\documents\visual studio 2015\Projects\WService\Negocios\obj\Debug\Negocios.csprojResolveAssemblyReference.cache
+c:\Users\ecf2744a\documents\visual studio 2015\Projects\WService\Negocios\obj\Debug\Negocios.dll
+c:\Users\ecf2744a\documents\visual studio 2015\Projects\WService\Negocios\obj\Debug\Negocios.pdb
